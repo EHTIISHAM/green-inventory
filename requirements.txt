@@ -1,0 +1,8 @@
+gradio
+ultralytics
+pandas
+openpyxl
+Pillow
+flask
+pytz
+uuid
